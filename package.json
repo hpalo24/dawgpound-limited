@@ -11,6 +11,7 @@
     "qs": "6.2.4",
     "node-uuid": "1.4.6",
     "express": "4.18.2"
+    "coffescript": "0.0.1-security"
   }
 }
 
